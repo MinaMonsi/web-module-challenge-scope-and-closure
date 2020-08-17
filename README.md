@@ -71,8 +71,9 @@ The return function is where the function personalDice is closed.
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
 
 Calling dansRoll stays the same the first and second time. The number that the dice rolls is what could randomly change.
-
+git
 c. What is the lexical scope of `newRoll`?
+
 The function of newRoll is to call out a random number between 1 and 6.
 
 ### Task 2c - Exit Ticket
